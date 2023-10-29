@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chris Mirra</h1>
-<h3 align="center">A passionate DevOps/MLOps Engineer</h3>
+<h3 align="center">A passionate DevOps/MLOps Engineer with a Full Stack Development background</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
 
