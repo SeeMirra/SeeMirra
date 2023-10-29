@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **my Arcade Machines**
 
-- 👨‍💻 I'm most passionate about **the intersection of Media and Technology**
+- 😍 I'm most passionate about **the intersection of Media and Technology**
 
 
 https://github.com/SeeMirra/SeeMirra/assets/6476515/6392c8b8-41c2-40ee-9036-b43cdf79b79b
