@@ -18,6 +18,7 @@
 
 
 https://github.com/SeeMirra/SeeMirra/assets/6476515/6392c8b8-41c2-40ee-9036-b43cdf79b79b
+![Screenshot from 2023-10-29 17-32-40](https://github.com/SeeMirra/SeeMirra/assets/6476515/d4ccba53-3229-4228-9de5-eddb0a28da5c)
 
 
 
