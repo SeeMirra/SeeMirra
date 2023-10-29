@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **a DAO for civil disobedience**
 
-- 💬 Ask me about **my Arcade Machines**
+- 💬 Ask me about **my Arcade Machines or Generative AI Pipelines**
 
 - 😍 I'm most passionate about **the intersection of Media and Technology**
 
