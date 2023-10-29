@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seemirra&theme=onedark" alt="seemirra" /></a> </p>
-
 - 🔭 I’m currently working at **one of the World's Largest Automakers**
 
 - 🌱 I’m currently learning **Everything, Everyday**
