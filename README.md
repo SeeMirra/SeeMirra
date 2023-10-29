@@ -17,7 +17,11 @@
 - 😍 I'm most passionate about **the intersection of Media and Technology**
 
 
-https://github.com/SeeMirra/SeeMirra/assets/6476515/6392c8b8-41c2-40ee-9036-b43cdf79b79b
+
+https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-79850df1302b
+
+
+
 ![Screenshot from 2023-10-29 17-32-40](https://github.com/SeeMirra/SeeMirra/assets/6476515/d4ccba53-3229-4228-9de5-eddb0a28da5c)
 
 
