@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chris Mirra</h1>
 <h3 align="center">A passionate DevOps/MLOps Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views&color=0e75b6&style=flat" alt="seemirra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views&theme=onedark" alt="seemirra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seemirra" alt="seemirra" /></a> </p>
 
