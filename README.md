@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **one of the World's Largest Automakers**
 
-- 🌱 I’m currently learning **Everything, Everyday**
+- 🌱 I’m currently learning **Everything, Everyday - Especially nights and weekends**
 
 - 👯 I’m looking to collaborate on **MLOps, Machine Learning, Security, Automation Workflows, Generative Film Dubbing**
 
