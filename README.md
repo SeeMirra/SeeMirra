@@ -2,13 +2,13 @@
 <p align="center"><b>DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</b></p>
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/chris-mirra-375b5488/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.tiktok.com/@ai.audio">
     <img src="https://img.shields.io/badge/Tiktok-red?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/chrismirra">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a><br />
   <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" />
