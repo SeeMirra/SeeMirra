@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
 <h1>Hi 👋, I'm Chris Mirra</h1>
 <h3>DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</h3>
 
@@ -34,3 +33,4 @@ https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-7985
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seemirra&show_icons=true&locale=en&layout=compact" alt="seemirra" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
