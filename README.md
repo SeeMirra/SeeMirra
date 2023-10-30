@@ -1,4 +1,7 @@
-<div id="badges" align="right">
+<h1 align="center"><b>Hi 👋, I'm Chris Mirra</b></h1>
+<p align="center"><b>DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</b></p>
+
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -7,11 +10,9 @@
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a><br />
   <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" />
 </div>
-<h1 align="center"><b>Hi 👋, I'm Chris Mirra</b></h1>
-<p align="center"><b>DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</b></p>
 
 ![dino](https://github.com/SeeMirra/SeeMirra/assets/6476515/265f2066-5ead-49ef-beff-4437b693af6b)
 
