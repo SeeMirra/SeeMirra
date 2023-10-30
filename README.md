@@ -17,7 +17,7 @@
 - 😍 I'm most passionate about **the intersection of Media and Technology**
 
 Built using 7 different ML models in a custom pipeline.
-I've got a model to split the acapella from the instrumental (Because while using youtube to find them mostly works, there are issues as sometimes audio is recorded at a different bpm or the video is a different framerate leading to loss of sync and needing manual intervention), a model to generate the first still image, then two more to animate a series of frames based off it without going too far off-the-rails -- one handles the animation and the other model handles the pose detection and reposing, another to swap the artists voice, another to handle to lipsync itself and then the last polishes and restores the face
+I use a model to split the acapella from the instrumental (Because while using youtube to find them mostly works, there are issues as sometimes audio is recorded at a different bpm or the video is a different framerate leading to loss of sync and needing manual intervention), a model to generate the first still image, then two more to animate a series of frames based off it without going too far off-the-rails -- one handles the animation and the other model handles the pose detection and reposing, another to swap the artists voice, another to handle to lipsync itself and then the last polishes and restores the face
 
 https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-79850df1302b
 
