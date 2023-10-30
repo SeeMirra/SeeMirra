@@ -17,7 +17,14 @@
 - 😍 I'm most passionate about **the intersection of Media and Technology**
 
 The video below was created using 7 different ML models in a custom pipeline on my local workstation (rtx 3090ti).
-I use a model to split the acapella from the instrumental, a model to generate the first still image, then two more to animate a series of frames based off it without going too far off-the-rails -- one handles the animation and the other model handles the pose detection and reposing, another to swap the artists voice, another to handle to lipsync itself and then the last polishes and restores the face
+
+- Split Audio (Demucs)
+- Generate Initial Image
+- OpenPose
+- Controlnet frames based on initial
+- Vocal Swap
+- Lip Sync
+- Facial Restoration to blend our changes
 
 https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-79850df1302b
 
