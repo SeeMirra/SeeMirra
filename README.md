@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Everything, Everyday - Especially nights and weekends**
 
-- 👯 I’m looking to collaborate on **MLOps, Machine Learning, Security, Automation Workflows, Generative Film Dubbing**
+- 👯 I’m looking to collaborate on **MLOps, Machine Learning, DevSecOps, Automation Workflows**
 
-- 🤝 I’m looking for help with **a DAO for civil disobedience**
+- 🤝 I’m looking for help with **a Decentralized Autonomous Organization (DAO)**
 
-- 💬 Ask me about **my Arcade Machines or Generative AI Pipelines**
+- 💬 Ask me about **my Arcade Machines**
 
-- 😍 I'm most passionate about **the intersection of Media and Technology**
+- 😍 I'm most passionate about **the intersection of Media and Technology, especially things like Generative Film Dubbing**
 
 The video below was created using 7 different ML models in a custom pipeline on my local RTX 3090 Ti
 
