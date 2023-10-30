@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Chris Mirra</h1>
-<h3>DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</h3>
+<h1 align="center">Hi 👋, I'm Chris Mirra</h1>
+<h3 align="center">DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</h3>
 
 ![dino](https://github.com/SeeMirra/SeeMirra/assets/6476515/265f2066-5ead-49ef-beff-4437b693af6b)
 
@@ -16,7 +16,7 @@
 
 - 😍 I'm most passionate about **the intersection of Media and Technology**
 
-The video below was created using 7 different ML models in a custom pipeline on my local workstation (rtx 3090ti).
+The video below was created using 7 different ML models in a custom pipeline on my local RTX 3090 Ti
 
 - Split Audio (Demucs)
 - Generate Initial Image
