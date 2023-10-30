@@ -18,7 +18,7 @@
 
 The video below was created using 7 different ML models in a custom pipeline on my local RTX 3090 Ti
 
-- Split Audio (Demucs)
+- Split Audio
 - Generate Initial Image
 - OpenPose
 - Controlnet frames based on initial
