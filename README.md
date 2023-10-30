@@ -2,6 +2,15 @@
 <h1 align="center"><b>Hi 👋, I'm Chris Mirra</b></h1>
 <p align="center"><b>DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</b></p>
 
+[!NOTE]
+Highlights information that users should take into account, even when skimming.
+
+[!IMPORTANT]
+Crucial information necessary for users to succeed.
+
+[!WARNING]
+Critical content demanding immediate user attention due to potential risks.
+
 ![dino](https://github.com/SeeMirra/SeeMirra/assets/6476515/265f2066-5ead-49ef-beff-4437b693af6b)
 
 - 🔭 I’m currently working at **one of the World's Largest Automakers**
