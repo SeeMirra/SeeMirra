@@ -16,7 +16,7 @@
 - 😍 I'm most passionate about **the intersection of Media and Technology, especially things like Generative Film Dubbing**
 
 The video below was created using 7 different ML models in a custom pipeline on my local RTX 3090 Ti
-
+<div>
 - Split Audio (Demucs)
 - Generate Initial Image
 - OpenPose
@@ -24,7 +24,7 @@ The video below was created using 7 different ML models in a custom pipeline on 
 - Vocal Swap
 - Lip Sync
 - Facial Restoration to blend changes
-
+</div>
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seemirra&show_icons=true&locale=en&layout=compact" alt="seemirra" /></p>
 
 https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-79850df1302b
