@@ -1,3 +1,4 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
 <h1 align="center">Hi 👋, I'm Chris Mirra</h1>
 <h3 align="center">DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</h3>
 
@@ -26,7 +27,6 @@ The video below was created using 7 different ML models in a custom pipeline on 
 - Facial Restoration to blend changes
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seemirra&show_icons=true&locale=en&layout=compact" alt="seemirra" /></p>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
 https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-79850df1302b
 
 
