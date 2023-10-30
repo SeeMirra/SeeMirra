@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **my Arcade Machines**
 
-- 😍 I'm most passionate about **the intersection of Media and Technology, especially things like Generative Film Dubbing**
+- 😍 I'm most passionate about **the intersection of Media and Technology**, especially things like **Generative Film Dubbing**
 
 The video below was created using 7 different ML models in a custom pipeline on my local RTX 3090 Ti
 
