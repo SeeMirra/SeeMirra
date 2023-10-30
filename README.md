@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
-<p size="+6"> Hi 👋, I'm Chris Mirra</p>
-<p size="+3"> A passionate DevOps/MLOps Engineer with a Full Stack background<br /><br />20+ Years of Professional Development Experience</p>
+<p size="6"> Hi 👋, I'm Chris Mirra</p>
+<p size="4"> A passionate DevOps/MLOps Engineer with a Full Stack background<br /><br />20+ Years of Professional Development Experience</p>
 
 
 
