@@ -1,4 +1,15 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
+<div id="badges" align="right">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" />
+</div>
 <h1 align="center"><b>Hi 👋, I'm Chris Mirra</b></h1>
 <p align="center"><b>DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</b></p>
 
