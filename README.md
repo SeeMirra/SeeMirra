@@ -1,7 +1,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
 <h1 align="center"><b>Hi 👋, I'm Chris Mirra</b></h1>
 <p align="center"><b>DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</b></p>
-
+---
 ![dino](https://github.com/SeeMirra/SeeMirra/assets/6476515/265f2066-5ead-49ef-beff-4437b693af6b)
 
 - 🔭 I’m currently working at **one of the World's Largest Automakers**
