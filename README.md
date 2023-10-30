@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" /> </p>
-<b align="center">Hi 👋, I'm Chris Mirra</b>
-<b align="center">DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</b>
+<p align="center"><b>Hi 👋, I'm Chris Mirra</b></p>
+<p align="center"><b>DevOps/MLOps with a Full Stack background<br /><br />20+ Years of Professional Development Experience</b></p>
 
 ![dino](https://github.com/SeeMirra/SeeMirra/assets/6476515/265f2066-5ead-49ef-beff-4437b693af6b)
 
