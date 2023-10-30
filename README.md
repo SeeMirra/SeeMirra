@@ -3,6 +3,7 @@
 
 ![dino](https://github.com/SeeMirra/SeeMirra/assets/6476515/265f2066-5ead-49ef-beff-4437b693af6b)
 
+<p width="100px">1</p><p width="100px">2</p>
 
 - 🔭 I’m currently working at **one of the World's Largest Automakers**
 
