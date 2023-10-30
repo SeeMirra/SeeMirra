@@ -25,9 +25,11 @@ The video below was created using 7 different ML models in a custom pipeline on 
 - Lip Sync
 - Facial Restoration to blend changes
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seemirra&show_icons=true&locale=en&layout=compact" alt="seemirra" /></p>
+
 https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-79850df1302b
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seemirra&show_icons=true&locale=en&layout=compact" alt="seemirra" /></p>
+
 
 ![Screenshot from 2023-10-29 17-32-40](https://github.com/SeeMirra/SeeMirra/assets/6476515/d4ccba53-3229-4228-9de5-eddb0a28da5c)
 
