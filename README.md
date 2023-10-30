@@ -24,7 +24,7 @@ The video below was created using 7 different ML models in a custom pipeline on 
 - Controlnet frames based on initial
 - Vocal Swap
 - Lip Sync
-- Facial Restoration to blend our changes
+- Facial Restoration to blend changes
 
 https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-79850df1302b
 
