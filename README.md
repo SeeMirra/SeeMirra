@@ -27,6 +27,7 @@ The video below was created using 7 different ML models in a custom pipeline on 
 - Facial Restoration to blend changes
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seemirra&show_icons=true&locale=en&layout=compact" alt="seemirra" /></p>
+
 https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-79850df1302b
 
 
