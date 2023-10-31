@@ -56,3 +56,4 @@ https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-7985
 
 ![hiE5vMs](https://github.com/SeeMirra/SeeMirra/assets/6476515/81967590-8f07-42ec-956b-1f9894d703e1)
 
+![yxp](https://github.com/SeeMirra/SeeMirra/assets/6476515/df9e9ca5-31f9-4cd5-95a0-d320830b13c0)
