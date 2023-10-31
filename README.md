@@ -58,6 +58,6 @@ https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-7985
 </p>
 
 <img src="https://user-images.githubusercontent.com/6476515/279520234-81967590-8f07-42ec-956b-1f9894d703e1.gif" align="left">
-<img src="https://user-images.githubusercontent.com/6476515/279532786-df9e9ca5-31f9-4cd5-95a0-d320830b13c0.gif" align="right">
+<img src="https://user-images.githubusercontent.com/6476515/279532786-df9e9ca5-31f9-4cd5-95a0-d320830b13c0.gif" align="left">
 
 ![Screenshot from 2023-10-31 17-52-48](https://github.com/SeeMirra/SeeMirra/assets/6476515/17bbcc8d-ab7d-4c3e-8726-6da62d884ba6)
