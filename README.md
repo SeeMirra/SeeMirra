@@ -18,7 +18,8 @@
 
 
 ![dino](https://github.com/SeeMirra/SeeMirra/assets/6476515/265f2066-5ead-49ef-beff-4437b693af6b)
-
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=seemirra&show_icons=true&locale=en&layout=compact" alt="seemirra" />
+</p>
 - 🔭 I’m currently working at **one of the World's Largest Automakers**
 
 - 🌱 I’m currently learning **Everything, Everyday - Especially nights and weekends**
@@ -31,8 +32,7 @@
 
 - 😍 I'm most passionate about **the intersection of Media and Technology**, especially things like **Generative Film Dubbing**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seemirra&show_icons=true&locale=en&layout=compact" alt="seemirra" />
-</p>
+
 
 The video below was created using 7 different ML models in a custom pipeline on my local RTX 3090 Ti
 
@@ -59,10 +59,5 @@ https://github.com/SeeMirra/SeeMirra/assets/6476515/3c3f338b-9b56-4ccd-a589-7985
 
 <img src="https://user-images.githubusercontent.com/6476515/279520234-81967590-8f07-42ec-956b-1f9894d703e1.gif" align="left">
 <img src="https://user-images.githubusercontent.com/6476515/279532786-df9e9ca5-31f9-4cd5-95a0-d320830b13c0.gif" align="right">
-
-![hiE5vMs](https://github.com/SeeMirra/SeeMirra/assets/6476515/81967590-8f07-42ec-956b-1f9894d703e1)
-
-![yxp](https://github.com/SeeMirra/SeeMirra/assets/6476515/df9e9ca5-31f9-4cd5-95a0-d320830b13c0)
-
 
 ![Screenshot from 2023-10-31 17-52-48](https://github.com/SeeMirra/SeeMirra/assets/6476515/17bbcc8d-ab7d-4c3e-8726-6da62d884ba6)
