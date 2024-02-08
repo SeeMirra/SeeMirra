@@ -6,7 +6,7 @@
   </a>
   <a href="https://www.tiktok.com/@ai.audio">
     <img src="https://img.shields.io/badge/Tiktok-red?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
-  </a>
+  </a><br />
   <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" />
 </div>
 <br />
