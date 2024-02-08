@@ -7,9 +7,6 @@
   <a href="https://www.tiktok.com/@ai.audio">
     <img src="https://img.shields.io/badge/Tiktok-red?style=for-the-badge&logo=tiktok&logoColor=white" alt="Tiktok Badge"/>
   </a>
-  <a href="https://twitter.com/chrismirra">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a><br />
   <img src="https://komarev.com/ghpvc/?username=seemirra&label=Profile%20views" alt="seemirra" />
 </div>
 <br />
